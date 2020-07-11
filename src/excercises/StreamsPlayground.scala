@@ -1,5 +1,7 @@
 package excercises
 
+import scala.annotation.tailrec
+
 
 abstract class MyStream[+A] {
   def isEmpty: Boolean

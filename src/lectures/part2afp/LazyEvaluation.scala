@@ -1,4 +1,4 @@
-package part2afp
+package lectures.part2afp
 
 object LazyEvaluation extends App {
 
